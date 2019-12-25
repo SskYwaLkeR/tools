@@ -4,11 +4,11 @@ This is simply my eslint and prettier configuration files that i use in my proje
 
 to use this in your pc you need to have prettier and eslint extension in your vscode and both `prettier` and `eslint` along with `eslint-conig-prettier` installed as dev dependency in your codebase.
 
-Also you need to turn on
+Also you need to turn these on inside your vscode setting
 
 1. format on save
 2. Prettier config
-   inside your vscode seting
+   
 
 And at last you need to have
 
